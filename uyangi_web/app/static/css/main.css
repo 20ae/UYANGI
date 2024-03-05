@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+}
+
+header {
+  height: 35px;
+  width: 100%;
+  opacity: .9;
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+header h1.logo {
+  font-size: 1.7em;
+  margin-top: 40px;
+  margin-left: 50px;
+  text-transform: uppercase;
+  float: left;
+  color: black;
+}
+
+header h1.logo:hover {
+  color: #fff;
+  margin-top: 20px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+table {
+	margin-top: 20px;
+}
+
+td {
+   padding-right: 30px;
+}
+.container {
+  margin: 0 auto;
+}
+
+div.jumbo {
+  padding: 10px 0 30px 0;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+div.mainuyangi {
+  margin-top: 20px;
+	width: 100%;
+}
+
+img.logo {
+  margin-top: 40px;
+  margin-left: 50px;
+  text-transform: uppercase;
+  float: left;
+}
+
+h2 {
+  font-size: 3em;
+  margin-top: 40px;
+  text-align: center;
+  letter-spacing: -2px;
+}
+
+h3 {
+  font-size: 1.7em;
+  font-weight: 100;
+  margin-top: 30px;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #999;
+}
+.menu {
+  float: right;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+
+.menu li {
+  display: inline;
+  color: #353535;
+}
+
+.menu li + li {
+  margin-left: 35px;
+}
+
+.menu li a {
+  color: #353535;
+  text-decoration: none;
+}
